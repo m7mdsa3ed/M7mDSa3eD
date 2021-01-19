@@ -1,6 +1,6 @@
 ![Mohamed's GitHub Banner](./assets/banner.png)
 
-![Visits Badge](https://badges.pufler.dev/visits/M7mDSa3eD/M7mDSa3eD)
+![Visits Badge](https://badges.pufler.dev/visits/M7mDSa3eD/M7mDSa3eD_)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/M7mDSa3eD)
 
 Hey there 👋
@@ -35,6 +35,7 @@ Hey there 👋
 ![](https://img.shields.io/badge/Code-OOP-informational?style=flat&logo=OOP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MVC-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 
+### Tools
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
