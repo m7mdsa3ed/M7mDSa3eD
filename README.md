@@ -1,7 +1,7 @@
 ![Mohamed's GitHub Banner](./assets/banner.png)
 
-![Visits Badge](https://badges.pufler.dev/visits/M7mDSa3eD/M7mDSa3eD_)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/M7mDSa3eD)
+![Visits Badge](https://badges.pufler.dev/visits/M7mDSa3eD/M7mDSa3eD)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/M7mDSa3eD_)
 
 Hey there 👋
 
