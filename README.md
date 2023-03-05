@@ -1,9 +1,10 @@
 ![Mohamed's GitHub Banner](./assets/banner.png)
 
-![Visitor badge](https://visitor-badge.glitch.me/badge?page_id=m7mdsa3ed.visitor-badge)
+![Visitor badge](https://gh-visitor-counter-nwxxetlwa-m7mdsa3ed.vercel.app/?username=m7mdsa3ed)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/M7mDSa3eD_)
 
 Hey there 👋
+
 
 # 📊 GitHub Stats:
 <a href="https://github.com/M7mDSa3eD">
