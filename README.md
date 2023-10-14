@@ -1,6 +1,6 @@
 ![Mohamed's GitHub Banner](./assets/banner.png)
 
-![](https://gh-visitor-counter-nwxxetlwa-m7mdsa3ed.vercel.app/?username=m7mdsa3ed)
+![Visitors](https://gh-visitor-counter.vercel.app/?username=m7mdsa3ed)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/M7mDSa3eD_)
 
 Hey there 👋
